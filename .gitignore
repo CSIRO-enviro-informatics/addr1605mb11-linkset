@@ -206,5 +206,5 @@ dmypy.json
 # JetBrains
 .idea/
 
-addr1605mb11-linkset-full.csv
-addr1605mb11-linkset-full.ttl
+# Mac
+.DS_Store
